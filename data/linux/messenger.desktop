@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Messenger
+Comment=Simple and lightweight IM client/server
+TryExec=messenger
+Exec=messenger
+Icon=messenger
+Categories=QT;QML;Messaging;Messenger;Social;Network;
+StartupNotify=true
+
