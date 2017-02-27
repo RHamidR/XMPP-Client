@@ -1,0 +1,71 @@
+<RCC>
+    <qresource prefix="/fonts">
+        <file>fonts/font_awesome.ttf</file>
+        <file>fonts/regular.ttf</file>
+    </qresource>
+    <qresource prefix="/faces">
+        <file>faces/yellow-rose.jpg</file>
+        <file>faces/generic-user.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>sounds/alert.wav</file>
+        <file>sounds/login.wav</file>
+        <file>sounds/logout.wav</file>
+        <file>sounds/receive.wav</file>
+        <file>sounds/send.wav</file>
+    </qresource>
+    <qresource prefix="/qml">
+        <file>qml/main.qml</file>
+        <file>qml/chat/BubbleMessage.qml</file>
+        <file>qml/chat/ChatControls.qml</file>
+        <file>qml/chat/ChatInterface.qml</file>
+        <file>qml/chat/DownloadMenu.qml</file>
+        <file>qml/controls/Button.qml</file>
+        <file>qml/controls/CheckBox.qml</file>
+        <file>qml/controls/Label.qml</file>
+        <file>qml/controls/LineEdit.qml</file>
+        <file>qml/controls/ProgressBar.qml</file>
+        <file>qml/core/App.qml</file>
+        <file>qml/core/ColumnPage.qml</file>
+        <file>qml/core/Menu.qml</file>
+        <file>qml/core/NavigationBar.qml</file>
+        <file>qml/core/Page.qml</file>
+        <file>qml/core/Theme.qml</file>
+        <file>qml/pages/Connect.qml</file>
+        <file>qml/pages/Start.qml</file>
+        <file>qml/core/Dialog.qml</file>
+        <file>qml/dialogs/AboutDialog.qml</file>
+        <file>qml/dialogs/FileBrowser.qml</file>
+        <file>qml/dialogs/MessageBox.qml</file>
+        <file>qml/dialogs/Preferences.qml</file>
+        <file>qml/controls/CircularNotification.qml</file>
+        <file>qml/controls/Icon.qml</file>
+        <file>qml/core/Notification.qml</file>
+        <file>qml/dialogs/NewsDialog.qml</file>
+        <file>qml/dialogs/HelpDialog.qml</file>
+        <file>qml/dialogs/LoginDialog.qml</file>
+        <file>qml/chat/MessageStack.qml</file>
+        <file>qml/chat/UserItem.qml</file>
+        <file>qml/chat/UserSidebar.qml</file>
+        <file>qml/controls/NotificationControl.qml</file>
+        <file>qml/dialogs/UpdatesDialog.qml</file>
+        <file>qml/core/Overlay.qml</file>
+        <file>qml/menus/AppMenu.qml</file>
+        <file>qml/menus/AvatarMenu.qml</file>
+        <file>qml/core/Units.qml</file>
+        <file>qml/controls/CircularImage.qml</file>
+        <file>qml/controls/NiceScrollView.qml</file>
+        <file>qml/controls/Frame.qml</file>
+        <file>qml/dialogs/RegisterDialog.qml</file>
+    </qresource>
+    <qresource prefix="/textures">
+        <file>textures/background.png</file>
+    </qresource>
+    <qresource prefix="/sharing">
+        <file>sharing/picture.jpg</file>
+        <file>sharing/video.mp4</file>
+        <file>sharing/audio.jpg</file>
+        <file>sharing/video.jpg</file>
+        <file>sharing/audio.wav</file>
+    </qresource>
+</RCC>
